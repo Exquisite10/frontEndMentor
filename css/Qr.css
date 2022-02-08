@@ -1,0 +1,53 @@
+body{
+    background-color: #D2ECFA;
+    max-width: 1440px;
+}
+#card{
+    width:260px;
+    height:400px;
+    background-color:white;
+    border-radius:18px;
+    margin:auto;
+    /* border:3px solid red; */
+    position:relative;
+    top:8em;
+}
+
+#image{
+    width:230px;
+    height:230px;
+    /* border:3px solid red;  */
+    background-image:url("../images/image-qr-code.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    border-radius:10px;
+    position:relative;
+    top:10px;
+    left:12px;
+
+
+}
+
+#p1{
+    position:relative;
+    top:13px;
+    /* border:3px solid red; */
+    text-align:center;
+    font-family: 'Outfit', sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+    
+}
+
+#p2{
+    width:220px;
+    position:relative;
+    top:5px;
+    left:16px;
+    /* border:3px solid red; */
+    text-align:center;
+    font-size:15px;
+    font-family:'Outfit', sans-serif;
+    color:grey;
+    
+}
